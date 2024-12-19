@@ -5,11 +5,11 @@
 
 ## Diagrama de clases
 
-[diagrama]: https://github.com/nur-university/nur-ms2024-m2-act-3-penama/blob/main/src/main/resources/Mod2_TF_NurTricenter_v2-Diagrama%20Clases.jpg.JPG "Diagrama de Clases"
+[diagrama]: https://github.com/nur-university/ms2024-tf-penama/blob/main/src/main/resources/Mod2_TF_NurTricenter_v2-Diagrama%20Clases.jpg.JPG "Diagrama de Clases"
 
 Se esta implementando las clases que estan en rojo.
 
-En la carpeta nur-ms2024-m2-act-3-penama\src\main\java\com\catering\servicio\  se encuentra la carpeta domain con las clases a utilizar.
+En la carpeta ms2024-tf-penama\src\main\java\com\catering\servicio\  se encuentra la carpeta domain con las clases a utilizar.
 
 
 Link Video.
